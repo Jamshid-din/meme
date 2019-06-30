@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/todolist.github.io/static/css/main.ee220ad0.chunk.css",
-    "main.js": "/todolist.github.io/static/js/main.3b157c21.chunk.js",
-    "main.js.map": "/todolist.github.io/static/js/main.3b157c21.chunk.js.map",
-    "runtime~main.js": "/todolist.github.io/static/js/runtime~main.6b6ded1c.js",
-    "runtime~main.js.map": "/todolist.github.io/static/js/runtime~main.6b6ded1c.js.map",
-    "static/js/2.561c52a4.chunk.js": "/todolist.github.io/static/js/2.561c52a4.chunk.js",
-    "static/js/2.561c52a4.chunk.js.map": "/todolist.github.io/static/js/2.561c52a4.chunk.js.map",
-    "index.html": "/todolist.github.io/index.html",
-    "precache-manifest.62f6a40ab086fd334ecac955f14face8.js": "/todolist.github.io/precache-manifest.62f6a40ab086fd334ecac955f14face8.js",
-    "service-worker.js": "/todolist.github.io/service-worker.js",
-    "static/css/main.ee220ad0.chunk.css.map": "/todolist.github.io/static/css/main.ee220ad0.chunk.css.map",
-    "static/media/meme_logo.png": "/todolist.github.io/static/media/meme_logo.be324d5b.png"
+    "main.css": "/meme.github.io/static/css/main.ee220ad0.chunk.css",
+    "main.js": "/meme.github.io/static/js/main.37316cdf.chunk.js",
+    "main.js.map": "/meme.github.io/static/js/main.37316cdf.chunk.js.map",
+    "runtime~main.js": "/meme.github.io/static/js/runtime~main.1ea199c3.js",
+    "runtime~main.js.map": "/meme.github.io/static/js/runtime~main.1ea199c3.js.map",
+    "static/js/2.561c52a4.chunk.js": "/meme.github.io/static/js/2.561c52a4.chunk.js",
+    "static/js/2.561c52a4.chunk.js.map": "/meme.github.io/static/js/2.561c52a4.chunk.js.map",
+    "index.html": "/meme.github.io/index.html",
+    "precache-manifest.3a0d1fe7e5673114fd80a225075aeca4.js": "/meme.github.io/precache-manifest.3a0d1fe7e5673114fd80a225075aeca4.js",
+    "service-worker.js": "/meme.github.io/service-worker.js",
+    "static/css/main.ee220ad0.chunk.css.map": "/meme.github.io/static/css/main.ee220ad0.chunk.css.map",
+    "static/media/meme_logo.png": "/meme.github.io/static/media/meme_logo.be324d5b.png"
   }
 }
